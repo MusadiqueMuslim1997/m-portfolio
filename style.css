@@ -138,6 +138,7 @@ nav ul li a:hover{
     color: white;
     font-weight: bolder;
     font-size: 1rem;
+    cursor: pointer;
 }
 .btns > a > button:active{
     background-color: green;
